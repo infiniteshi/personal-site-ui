@@ -11189,7 +11189,7 @@ textarea.form-control-lg {
 
 .heading-line::before {
   content: "";
-  width: 20rem;
+  width: 10rem;
   height: 0.1rem;
   display: block;
   margin: 0 auto;
@@ -11205,6 +11205,10 @@ textarea.form-control-lg {
   margin: 0 auto;
   margin-bottom: 1rem;
   background-color: #4CAF50;
+}
+
+.display-3 {
+  font-family: "Poppins", sans-serif;
 }
 
 .menu {
